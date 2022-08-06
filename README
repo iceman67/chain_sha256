@@ -1,0 +1,3 @@
+HOW to test the chain of hash chain_sha256
+make chain-sha256
+./chain-sha256
